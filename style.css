@@ -141,6 +141,11 @@ button:hover{
     border-radius: 5px;
 }
 
+.icon {
+    font-size: 80px;
+    margin-right: 10px;
+}
+
 @media screen and (max-width: 1075px) {
     .content{
         flex-direction: column;
